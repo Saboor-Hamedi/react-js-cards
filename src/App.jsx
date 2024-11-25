@@ -8,7 +8,7 @@ const App = () => {
     <>
       <Header />
       <Hero
-        title="Browse Job"
+        title="Browse Jobs"
         subtitle="Jobstreet: Jobs in Indonesia - Search Job Vacancies - Career"
       />
       <DevSection />
